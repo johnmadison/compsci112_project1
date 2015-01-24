@@ -1,0 +1,40 @@
+*******************************************
+*                                         *
+*    M   M   A   RR   V   V EEEEE L       *
+*    MM MM  A A  R  R V   V E     L       *
+*    M M M A   A R  R V   V E     L       *
+*    M   M AAAAA RRR  V   V EEEEE L       *
+*    M   M A   A R R   V V  E     L       *
+*    M   M A   A R  R   V   EEEEE LLLLL   *
+*                                         *
+*******************************************
+*       MARVEL COLLEGE STAFF PAYROLL      *
+*******************************************
+NAME (LAST, FIRST)  DEPARTMENT  SALARY(USD)
+*******************************************
+Smith, John         English           58000
+Handle, Sally       Geology           72500
+Gonzales, Jorge     Biology           78750
+Skywalker, Luke     Physics          200000
+Suarez, Antonio     History           51200
+Solo, Han           Psychology        55700
+Henderson, Anna     Mathematics       58815
+McDonald, Old       Agriculture       45500
+Anderson, Zaria     IT                57220
+*******************************************
+Average Salary =                   75298.00
+
+           SORTED BY DEPARTMENT
+
+NAME (LAST, FIRST)  DEPARTMENT  SALARY(USD)
+*******************************************
+McDonald, Old       Agriculture       45500
+Gonzales, Jorge     Biology           78750
+Smith, John         English           58000
+Handle, Sally       Geology           72500
+Suarez, Antonio     History           51200
+Anderson, Zaria     IT                57220
+Henderson, Anna     Mathematics       58815
+Skywalker, Luke     Physics          200000
+Solo, Han           Psychology        55700
+*******************************************
